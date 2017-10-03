@@ -1,3 +1,8 @@
+## Created by Parker Daudt as an example solution to a typical interwiew question
+## Takes a string as an input and searches the string for two words.
+## Example Input: helloworld
+## Example Output: The two words are hello and world
+
 import nltk
 from nltk.corpus import words
 
